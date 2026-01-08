@@ -6,16 +6,17 @@ import { Game } from './types';
 export const GAMES: Game[] = [
   {
     id: 1,
-    title: "PUBG: BATTLEGROUNDS",
-    imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/PUBG_Battlegrounds_Logo.svg/640px-PUBG_Battlegrounds_Logo.svg.png",
-    url: "https://pubg.game.daum.net/"
+    title: "Dragon Ball",
+    // Updated with the Dragon Ball slot game image as requested
+    imageUrl: "https://i.ifh.cc/N1Y8aQ.png",
+    url: "https://slotbuff3.com/FreeSlot?executeurl=https%3A%2F%2Fdemogamesfree-asia.pragmaticplay.net%2Fgs2c%2FopenGame.do%3FgameSymbol%3Dvswayswildwest%26amp%3BwebsiteUrl%3Dhttps%253A%252F%252Fdemogamesfree.pragmaticplay.net%26amp%3Bjurisdiction%3D99%26amp%3Blobby_url%3Dhttps%253A%252F%252Fwww.pragmaticplay.com%252Fko%252F%26amp%3Blang%3DKO%26amp%3Bcur%3DKRW"
   },
   {
     id: 2,
-    title: "Lucky Dog",
-    // Using a placeholder that visually represents the game title since the local file is inaccessible
-    imageUrl: "https://placehold.co/400x400/indigo/white?text=Lucky+Dog", 
-    url: "https://staticdemo.yggdrasilgaming.com/10728/index.html?appsrv=https://demo.yggdrasilgaming.com&boostUrl=/boost/current/boost.js&channel=pc&countryCode=kr&currency=KRW&fullscreen=yes&gameid=10728&key=&lang=kr&license=mt&org=Demo&pcUrl=/partnerconnect/current/partnerconnect.js"
+    title: "888 Dragons",
+    // Updated with the 888 Dragons slot game image as requested
+    imageUrl: "https://www.pragmaticplay.com/content/uploads/games/vs1888dragons.png",
+    url: "https://www.pragmaticplay.com/en/games/888-dragons/"
   },
   {
     id: 3,
